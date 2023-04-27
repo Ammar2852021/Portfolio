@@ -784,10 +784,7 @@ header .logo {
 }
 
 @media (max-width: 991px) {
-  .showcase,
-  .showcase header {
-    padding: 40px;
-  }
+
   .text h2 {
     font-size: 3em;
   }
