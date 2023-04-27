@@ -1807,3 +1807,11 @@ font-weight: bold;}
 
 
 
+
+
+
+  @media screen and (max-width: 767px)  {
+    
+    .tex{padding: 20px;}
+    
+  }
