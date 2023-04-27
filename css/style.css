@@ -1812,12 +1812,12 @@ font-weight: bold;}
 
   @media screen and (max-width: 767px)  {
     
-    .tex{padding: 50px 0px 20vh 20px;}
+    .tex{padding: 70px 10px 20vh 20px;}
     
     textarea{margin: 10px 0px 0px 0px;}
     .form-control{margin-top: 10px;}
 
-    .send-button{    max-width: 50%;}
+    .send-button{    max-width: 55%;}
     #map{display: none;}
 
     .text h3{font-size: 40px;}
