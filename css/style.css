@@ -1814,4 +1814,9 @@ font-weight: bold;}
     
     .tex{padding: 20px;}
     
+    textarea{margin: 10px 0px 0px 0px;}
+    .form-control{margin-top: 10px;}
+
+    .send-button{    max-width: 40%;}
+    #map{display: none;}
   }
