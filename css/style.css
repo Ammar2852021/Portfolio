@@ -694,7 +694,7 @@ header .logo {
   padding: 10px 50px 100px 0px;
 }
 .tex {
-  padding: 150px 30px;
+  padding: 120px 30px;
 }
 
 .text h2 {
@@ -707,7 +707,7 @@ header .logo {
   text-transform: uppercase;
 }
 .text h3 {
-  font-size: 4em;
+  font-size: 5em;
   font-weight: 900;
   color: black;
   line-height: 1em;
@@ -1820,8 +1820,8 @@ font-weight: bold;}
     .send-button{    max-width: 55%;}
     #map{display: none;}
 
-    .text h3{font-size: 40px;}
-    .text p{text-transform: lowercase;}
+    .text h3{font-size: 50px;}
+    .text p{text-transform: capitalize;}
   }
 
 
