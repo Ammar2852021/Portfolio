@@ -150,8 +150,8 @@ margin: 30px;
 /******* Middle section CSS Start ******/
 /* -------- Landing page ------- */
 .game-section {
-margin-top: 5vh;
-margin-bottom: 5vh;
+margin-top: 15vh;
+margin-bottom: 15vh;
 }
 .game-section .owl-stage {
   margin: 15px 0;
@@ -694,7 +694,7 @@ header .logo {
   padding: 10px 50px 100px 0px;
 }
 .tex {
-  padding: 100px 30px;
+  padding: 150px 30px;
 }
 
 .text h2 {
@@ -1774,16 +1774,16 @@ font-weight: bold;}
 }
 
 #space-27 {
-  fill: cadetblue;
+  fill: red;
 }
 .trazo {
   stroke-width: 1px;
-  stroke: cadetblue;
-  opacity: 0.5;
+  stroke:black;
+  /* opacity: 0.5; */
 }
 .trazo {
   stroke-dasharray: 500;
-  animation: draw 6s infinite;
+  animation: draw 50s infinite;
 }
 @keyframes draw {
   0% {
@@ -1801,8 +1801,7 @@ font-weight: bold;}
 
 #continentes {
   fill: black;
-  stroke-opacity: 1;
-  fill-opacity: 0.5;
+
 
   }
 
@@ -1827,3 +1826,15 @@ font-weight: bold;}
 
 
   .social-media-list li:after{position: relative;}
+
+
+
+
+  #icons{ margin-left: 10px; width: 20px;}
+
+
+
+
+  .special-link{color: cadetblue;}
+
+  
